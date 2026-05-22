@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class wissen {
     public static void main(String[] args) {
-        System.out.println("Tryprogramiz.pro");
+        System.out.println("Try programiz.pro");
         String str1 = "abcdghj";
         String str2 = "afghbd";
         HashSet<Character> set1 = new HashSet<Character>();
